@@ -1,3 +1,4 @@
 Student Name: Dorji Yangki
 Student ID: 05250173
-https://05250173jnec-hue.github.io/portfolio/
+Deployed Website Link: https://05250173jnec-hue.github.io/portfolio/
+Repository Link: https://github.com/05250173jnec-hue/portfolio
